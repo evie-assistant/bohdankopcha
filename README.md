@@ -40,49 +40,73 @@ A good interface does more than look polished. It helps people understand what m
 ## Working with
 
 <p>
-  <img src="https://cdn.simpleicons.org/react/C46F52" height="26" alt="React" />
+  <img src="https://cdn.simpleicons.org/react/C46F52" height="26" alt="React" title="React" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/C46F52" height="26" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/C46F52" height="26" alt="Next.js" title="Next.js" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/C46F52" height="26" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/typescript/C46F52" height="26" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vuedotjs/C46F52" height="26" alt="Vue.js" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/C46F52" height="26" alt="Vue.js" title="Vue.js" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/angular/C46F52" height="26" alt="Angular" />
+  <img src="https://cdn.simpleicons.org/angular/C46F52" height="26" alt="Angular" title="Angular" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/C46F52" height="26" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/C46F52" height="26" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
 ## Solving problems with AI
 
 <p>
-  <img src="https://cdn.simpleicons.org/anthropic/91A88B" height="26" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/anthropic/91A88B" height="26" alt="Claude Code" title="Claude Code" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/91A88B" height="26" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/cursor/91A88B" height="26" alt="Cursor" title="Cursor" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="26" alt="ChatGPT / Codex" title="ChatGPT / Codex" />
+  &nbsp;&nbsp;
+  <img src="https://hermes-agent.nousresearch.com/favicon.ico" height="26" alt="Hermes Agent" title="Hermes Agent" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/91A88B" height="26" alt="Gemini" title="Gemini" />
+  &nbsp;&nbsp;
+  <img src="https://lovable.dev/favicon.ico" height="26" alt="Lovable" title="Lovable" />
+  &nbsp;&nbsp;
+  <img src="https://base44.com/favicon.ico" height="26" alt="Base44" title="Base44" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/v0/91A88B" height="26" alt="v0" title="v0" />
 </p>
 
 ## Debugging with
 
 <p>
-  <img src="https://playwright.dev/img/playwright-logo.svg" height="26" alt="Playwright" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="26" alt="Playwright" title="Playwright" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vitest/91A88B" height="26" alt="Vitest" />
+  <img src="https://cdn.simpleicons.org/vitest/91A88B" height="26" alt="Vitest" title="Vitest" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jest/91A88B" height="26" alt="Jest" />
+  <img src="https://cdn.simpleicons.org/jest/91A88B" height="26" alt="Jest" title="Jest" />
 </p>
 
 ## Writing APIs with
 
 <p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/C46F52" height="26" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/C46F52" height="26" alt="Node.js" title="Node.js" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/C46F52" height="26" alt="Python" />
+  <img src="https://cdn.simpleicons.org/python/C46F52" height="26" alt="Python" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/graphql/C46F52" height="26" alt="GraphQL" />
+  <img src="https://cdn.simpleicons.org/graphql/C46F52" height="26" alt="GraphQL" title="GraphQL" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/C46F52" height="26" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/postman/C46F52" height="26" alt="Postman" title="Postman" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio/C46F52" height="26" alt="Socket.IO" />
+  <img src="https://cdn.simpleicons.org/socketdotio/C46F52" height="26" alt="Socket.IO" title="Socket.IO" />
+</p>
+
+## Deploying with
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="26" alt="AWS" title="AWS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/C46F52" height="26" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="26" alt="Azure" title="Azure" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/C46F52" height="26" alt="Vercel" title="Vercel" />
 </p>
 
 <br />
