@@ -11,9 +11,17 @@ I turn complex ideas into reliable software.
 
 Senior Frontend / Product Engineer with **6+ years of commercial experience in fintech**. I build product interfaces and frontend systems for complex workflows, with attention to information architecture, interaction quality, performance, accessibility, and maintainable delivery.
 
+### Have a product challenge worth solving?
+
+If you are building a new product, untangling a difficult workflow, or need a frontend partner who cares about both the product and the system behind it, let’s talk. I am open to remote B2B collaboration and meaningful engineering conversations.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/bohdan-kopcha-478ab7314/)** &nbsp;·&nbsp; **[Email me](mailto:kopchabogdan@gmail.com)** &nbsp;·&nbsp; **[Call or message me](tel:+48508136641)**
+
 <br />
 
-<sub><code>FROM REQUEST TO SYSTEM</code></sub>
+---
+
+## From request to system
 
 ### Clarity is a product feature.
 
@@ -25,67 +33,50 @@ A good interface does more than look polished. It helps people understand what m
 
 ---
 
-## Toolkit
+## Working with
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub><code>FRONTEND</code></sub>
-      <br /><br />
-      React<br />
-      Next.js<br />
-      TypeScript<br />
-      Vue.js<br />
-      Angular<br />
-      Tailwind CSS
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>PRODUCT SYSTEMS</code></sub>
-      <br /><br />
-      Design systems<br />
-      Complex interfaces<br />
-      Component architecture<br />
-      Accessibility<br />
-      Performance<br />
-      UI quality
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>ENGINEERING</code></sub>
-      <br /><br />
-      Node.js<br />
-      GraphQL<br />
-      Playwright<br />
-      GitHub workflows<br />
-      Code review<br />
-      Developer tooling
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.simpleicons.org/react/91A88B" height="26" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/91A88B" height="26" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/91A88B" height="26" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/91A88B" height="26" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/91A88B" height="26" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/graphql/91A88B" height="26" alt="GraphQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/91A88B" height="26" alt="Git" />
+</p>
+
+**Crafting interfaces** with React, Next.js, TypeScript, Vue.js, Angular, and Tailwind CSS.
+
+**Building dependable product systems** through component architecture, design systems, accessibility, performance, and thoughtful UI quality.
+
+**Shipping with confidence** using Node.js, GraphQL, Playwright, GitHub workflows, code review, and developer tooling.
 
 <br />
 
 ---
 
-## Principles
+## How I approach product work
 
-- Start with the workflow, not the component.
-- Make complex interfaces feel obvious.
-- Treat design quality, accessibility, performance, and maintainability as one system.
-- Prefer focused solutions over feature-heavy abstractions.
-- Leave the codebase clearer than I found it.
+🧭 **Understand the workflow first.** Good implementation starts with the people, decisions, and constraints behind the interface.
+
+✨ **Make complexity feel calm.** The goal is not fewer features; it is a product that makes the right next step obvious.
+
+⚖️ **Balance product intent and engineering reality.** Design quality, accessibility, performance, and maintainability have to work together.
+
+🔎 **Improve the system, not only the screen.** I aim to leave the codebase, team workflow, and product experience clearer than I found them.
 
 <br />
 
 ---
 
-<sub><code>CREDENTIAL</code></sub>
+## Credential
 
 ### Claude Certified Architect — Foundations
 
 Certified in designing effective Claude-powered solutions and agentic workflows.
-
-<br />
-
-### Let’s connect.
-
-[LinkedIn](https://www.linkedin.com/in/bohdan-kopcha-478ab7314/)
